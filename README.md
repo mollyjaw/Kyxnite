@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**Kyxnite/Kyxnite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kyanite - 2023
 
-Here are some ideas to get you started:
+Kyanite | **Made by stoned.eagle**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+Hello, You may know be as stoned.eagle.
+I'm the owner of 
+
+- Kyanite
+- Blitzed Grabber
+- Kyanite Nuker
+- Aetheryx Binder
+- Eagle Selfbot
+
+---
+
+I have been gone for a good while busy with other things
+
+I've decided to return after 6-8 months of inactivity
+
+Thanks to the best ones who sticked with me:
+
+- Synthetic
+- Tux
+- Velo
+- Xvz
+- Vanity
+- Something23
+- Dylan (kynull)
+---
+If you have been looking to contact me:
+
+https://discord.gg/botnet
