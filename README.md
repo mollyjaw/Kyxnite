@@ -35,3 +35,7 @@ Thanks to the best ones who sticked with me:
 If you have been looking to contact me:
 
 https://discord.gg/botnet
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyxnite&langs_count=8)
